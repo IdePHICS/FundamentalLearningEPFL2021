@@ -70,9 +70,9 @@ Over the last decades, neural networks have made quite an impact, one might even
 
 * Week 6(27/10): Classification with linear methods [EXO6](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/FoIL_TP6.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/Solution/FoIL_TP6_solved.ipynb)
 
-* Week 7(3/10): Kernel methods[EX07](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP7)
+* Week 7(3/10): Kernel methods[EX07](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP7);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP7/Solution/FoIL_TP7_solved.ipynb)
 
-* Week 8(10/10): Backpropagation [EX08](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8)
+* Week 8(10/10): Backpropagation [EX08](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP8/FoIL_TP8_sol.ipynb)
 
 
 ### Homeworks: 
