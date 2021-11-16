@@ -70,10 +70,11 @@ Over the last decades, neural networks have made quite an impact, one might even
 
 * Week 6(27/10): Classification with linear methods [EXO6](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/FoIL_TP6.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP6/Solution/FoIL_TP6_solved.ipynb)
 
-* Week 7(3/10): Kernel methods[EX07](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP7);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP7/Solution/FoIL_TP7_solved.ipynb)
+* Week 7(3/11): Kernel methods[EX07](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP7);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP7/Solution/FoIL_TP7_solved.ipynb)
 
-* Week 8(10/10): Backpropagation [EX08](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP8/FoIL_TP8_sol.ipynb)
+* Week 8(10/11): Backpropagation [EX08](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP8/FoIL_TP8_sol.ipynb)
 
+* Week 9(19/11): Pytorch and NN [EX09](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9.ipynb)
 
 ### Homeworks: 
 
