@@ -52,9 +52,11 @@ Richers features maps that linear ones, and Kernel methods, are one of the most 
 * **9/11, 16/11 and 23/11 (vii) Neural networks & deep learning**  [video part-a](https://tube.switch.ch/videos/h3MKqCh2FF);[video part-b](https://tube.switch.ch/videos/uzguAAyGwg);[video part-c](https://tube.switch.ch/videos/V8FuDNuazR);
 * [slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/NeuralNets-lec.pdf);[lecture notes](https://www.overleaf.com/4275199117yvpktswnmhqy) 
 
-Over the last decades, neural networks have made quite an impact, one might even say that they are at the origin of a revolution in machine learning and artificial intelligence.  This simple website allows you to get intuition on how they actually work for simple dataset: [Tensorflow playground](https://playground.tensorflow.org). The [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem) is discussed in many references (see for instance [here](https://ai.stackexchange.com/questions/13317/where-can-i-find-the-proof-of-the-universal-approximation-theorem/13319)). Despite Backpropagation being a rather trivial application of the chain rule of derivatives from Newton and Liebnitz [notes](https://cs.stanford.edu/~quocle/tutorial1.pdf), it is the cornerstone of learning neural network. A good summary of gradient decent algorithms is [here](https://ruder.io/optimizing-gradient-descent/). Convnets have made quite an impact, and have revolutionized computer vision. See the nice [introduction by Yann Lecun](https://www.youtube.com/watch?v=LrUYRwAJXKM).
+Over the last decades, neural networks have made quite an impact, one might even say that they are at the origin of a revolution in machine learning and artificial intelligence.  This simple website allows you to get intuition on how they actually work for simple dataset: [Tensorflow playground](https://playground.tensorflow.org). The [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem) is discussed in many references (see for instance [here](https://ai.stackexchange.com/questions/13317/where-can-i-find-the-proof-of-the-universal-approximation-theorem/13319)). Despite Backpropagation being a rather trivial application of the chain rule of derivatives from Newton and Liebnitz [notes](https://cs.stanford.edu/~quocle/tutorial1.pdf), it is the cornerstone of learning neural network. A good summary of gradient decent algorithms is [here](https://ruder.io/optimizing-gradient-descent/). Convnets have made quite an impact, and have revolutionized computer vision, see the nice [introduction by Yann Lecun](https://www.youtube.com/watch?v=LrUYRwAJXKM).
 
-* **23/11 (viii) Statistical Learning Theory**
+* **23/11 (viii) A short course on Statistical Learning Theory** 
+
+There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec14.pdf), and many [books](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) on this topic, which would deserve a course in its own.
 
 
 ### Lab classes:
@@ -78,6 +80,8 @@ Over the last decades, neural networks have made quite an impact, one might even
 * Week 8(10/11): Backpropagation [EX08](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP8/FoIL_TP8_sol.ipynb)
 
 * Week 9(19/11): Pytorch and NN [EX09](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9.ipynb)
+
+* Week 10(26/11): Pytorch and NN (ii) [EX10](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9.ipynb)
 
 ### Homeworks: 
 
