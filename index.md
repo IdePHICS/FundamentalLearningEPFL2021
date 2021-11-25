@@ -88,6 +88,7 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 
 * HW2 (Due November 23, on moodle) [Linear models, and Bias-Variance trade-of](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework2_EE411.pdf)
 
+* HW3 (Due Decembre 21, on moodle) [Neural network in pytorch](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/EE411_hw3.pdf)
 ### Projects: TBD
 
 ### A list of references
