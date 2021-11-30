@@ -57,6 +57,7 @@ Over the last decades, neural networks have made quite an impact, one might even
 
 There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec14.pdf), and many [books](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) on this topic, which would deserve a course in its own. Nevertheless, it is good to have a basic understanding of where we stand theoretically and to have grasp of the notion of [VC dimension](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension).
 
+* **30/11 (ix) Unsuperversised learning and dimensionality reduction**
 
 ### Lab classes:
 
