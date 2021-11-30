@@ -78,9 +78,11 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 
 * Week 8(10/11): Backpropagation [EXO8](https://github.com/IdePHICS/FundamentalLearningEPFL2021/tree/main/TP8);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP8/FoIL_TP8_sol.ipynb)
 
-* Week 9(19/11): Pytorch and NN [EXO9](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9_sol.ipynb)
+* Week 9(19/11): Pytorch and NN(i/iii) [EXO9](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP9/Foil_TP9_sol.ipynb)
 
-* Week 10(26/11): Pytorch and NN (ii) [EXO10](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks.ipynb)
+* Week 10(26/11): Pytorch and NN (ii/iii) [EXO10](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks_sol.ipynb)
+
+* Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)
 
 ### Homeworks: 
 
@@ -89,7 +91,8 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 * HW2 (Due November 23, on moodle) [Linear models, and Bias-Variance trade-of](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework2_EE411.pdf)
 
 * HW3 (Due Decembre 21, on moodle) [Neural network in pytorch](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/EE411_hw3.pdf)
-### Projects: TBD
+* 
+### Projects: Cooming soon!
 
 ### A list of references
 
