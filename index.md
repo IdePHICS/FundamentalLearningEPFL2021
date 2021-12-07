@@ -53,11 +53,11 @@ Richers features maps that linear ones, and Kernel methods, are one of the most 
 
 Over the last decades, neural networks have made quite an impact, one might even say that they are at the origin of a revolution in machine learning and artificial intelligence.  This simple website allows you to get intuition on how they actually work for simple dataset: [Tensorflow playground](https://playground.tensorflow.org). The [universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem) is discussed in many references (see for instance [here](https://ai.stackexchange.com/questions/13317/where-can-i-find-the-proof-of-the-universal-approximation-theorem/13319)). Despite Backpropagation being a rather trivial application of the chain rule of derivatives from Newton and Liebnitz [notes](https://cs.stanford.edu/~quocle/tutorial1.pdf), it is the cornerstone of learning neural network. A good summary of gradient decent algorithms is [here](https://ruder.io/optimizing-gradient-descent/). Convnets have made quite an impact, and have revolutionized computer vision, see the nice [introduction by Yann Lecun](https://www.youtube.com/watch?v=LrUYRwAJXKM).
 
-* **23/11 (viii) A short course on Statistical Learning Theory** [video part-a](https://tube.switch.ch/videos/fqNb3ieuW4); [video part-b](https://tube.switch.ch/videos/3vDhFXNap1);[lecture notes](https://www.overleaf.com/read/vwnfvnbwqznk) 
+* **23/11 (viii) A short course on Statistical Learning Theory** [video part-a](https://tube.switch.ch/videos/fqNb3ieuW4); [video part-b](https://tube.switch.ch/videos/3vDhFXNap1);[video part-c](https://tube.switch.ch/videos/E9DZLlnu2I), [lecture notes](https://www.overleaf.com/read/vwnfvnbwqznk) 
 
 There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec14.pdf), and many [books](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) on this topic, which would deserve a course in its own. Nevertheless, it is good to have a basic understanding of where we stand theoretically and to have grasp of the notion of [VC dimension](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension).
 
-* **30/11 (ix) Unsuperversised learning and dimensionality reduction**
+* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R)
 
 ### Lab classes:
 
@@ -83,7 +83,9 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 
 * Week 10(26/11): Pytorch and NN (ii/iii) [EXO10](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks_sol.ipynb)
 
-* Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)
+* Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks_sol.ipynb)
+
+* Week 12(8/12): PCA [EXO12]()
 
 ### Homeworks: 
 
