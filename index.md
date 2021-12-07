@@ -57,7 +57,7 @@ Over the last decades, neural networks have made quite an impact, one might even
 
 There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec14.pdf), and many [books](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) on this topic, which would deserve a course in its own. Nevertheless, it is good to have a basic understanding of where we stand theoretically and to have grasp of the notion of [VC dimension](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension).
 
-* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R)
+* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R) Principal Component Analysis is (still) one of the most fundamental tool of machine learning. This [post](https://setosa.io/ev/principal-component-analysis/) has great visual example.
 
 ### Lab classes:
 
@@ -94,8 +94,8 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 * HW2 (Due November 23, on moodle) [Linear models, and Bias-Variance trade-of](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/Homework2_EE411.pdf)
 
 * HW3 (Due Decembre 21, on moodle) [Neural network in pytorch](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/EE411_hw3.pdf)
-* 
-### Projects (Due before February 5!)[List of projects](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/Projects.md)
+ 
+### Projects (Due before February 5!):[List of projects](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/Projects.md)
 
 ### A list of references
 
