@@ -83,9 +83,9 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 
 * Week 10(26/11): Pytorch and NN (ii/iii) [EXO10](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks_sol.ipynb)
 
-* Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP10/Deep_Learning_Tips_and_Tricks_sol.ipynb)
+* Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)
 
-* Week 12(8/12): PCA [EXO12]()
+* Week 12(8/12): PCA [EXO12](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP12/FoIL_TP12.ipynb)
 
 ### Homeworks: 
 
