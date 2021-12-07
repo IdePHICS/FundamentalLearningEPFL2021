@@ -9,9 +9,9 @@ The final project for this course will consist in a **Reproducibility Challenge*
 
 ## Project guidelines
 
-*  This project will account for 40% of the final grade. There will be a limited number of project to choose from, and you will not be able to choose other projects. You should use the project as an opportunity to "learn by doing".
+* We wish to give as much time as possible for this project, so you have until February 4 to send your result. However, we strongly advise you to finish it (much) sonner not to interfere with your exams! This project will account for 40% of the final grade. There are  a limited number of project to choose from, and you will not be able to choose other projects. You should use the project as an opportunity to "learn by doing".
 
-* You may work in **teams of 2-5 people**. Each team member's contribution should be highlighted. 
+* You may work in **teams of 2-5 people**. Each team member's contribution should be highlighted. Different team can definitly choose the same project.
 
 * **Written Report:**  You will write a **maximum 4 pages** PDF report on your findings using LaTeX, but we will also welcome the inclusion of an additional Jupyter notebook where you illustrate how you reproduced the main results. In general, please make sure to take into account the following consideration: 
 1. *Reproducibility*: Your classmates should be able to reproduce your results based on your report only. Describe what pre-processing is required, what hyper-parameter values you selected and why, and clearly describe the overall pipeline you used. 
