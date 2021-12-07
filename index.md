@@ -95,7 +95,7 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 
 * HW3 (Due Decembre 21, on moodle) [Neural network in pytorch](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/HW/EE411_hw3.pdf)
 * 
-### Projects: Cooming soon!
+### Projects (Due before February 5!)[List of projects](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/Projects.md)
 
 ### A list of references
 
