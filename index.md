@@ -57,7 +57,13 @@ Over the last decades, neural networks have made quite an impact, one might even
 
 There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec14.pdf), and many [books](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) on this topic, which would deserve a course in its own. Nevertheless, it is good to have a basic understanding of where we stand theoretically and to have grasp of the notion of [VC dimension](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension).
 
-* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R) Principal Component Analysis is (still) one of the most fundamental tool of machine learning. This [post](https://setosa.io/ev/principal-component-analysis/) has great visual example.
+* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R)[video partb-b](https://tube.switch.ch/videos/shiC5JSABf);[video part-c](https://tube.switch.ch/videos/dLBE5iTslK); [slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/PCA.pdf)
+ 
+Principal Component Analysis is (still) one of the most fundamental tool of machine learning. This [post](https://setosa.io/ev/principal-component-analysis/) has great visual example, that you can play with to get an intuition.
+
+* **7/12 (x) Generative model and clustering** [video part-a](https://tube.switch.ch/videos/dLBE5iTslK)
+
+
 
 ### Lab classes:
 
@@ -86,6 +92,10 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
 * Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)
 
 * Week 12(8/12): PCA [EXO12](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP12/FoIL_TP12.ipynb)
+
+* Week 13(15/12): Auto-encoder and k-means
+
+* Week 14(22/12): ...
 
 ### Homeworks: 
 
