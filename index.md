@@ -63,7 +63,8 @@ Principal Component Analysis is (still) one of the most fundamental tool of mach
 
 * **7/12 (x) Generative model and clustering** [video part-a](https://tube.switch.ch/videos/dLBE5iTslK)
 
-
+Scikit learn has a good implemenation of k-means. Generative models are fundamental part of machine learning. The connection between Mixture of Gaussians and k-means clustering is well explained in [David MacKay's book](http://www.inference.org.uk/itprnn/book.pdf) page 300. The book is a very useful reference on this topic and probability in general (for instance Monte-Carlo 
+ methods adiscussed page 357). Boltzmann machines are discussed in in many places, for instances [here](https://www.cs.toronto.edu/~hinton/csc2535/notes/lec4new.pdf) and [there](https://analyticsindiamag.com/beginners-guide-to-boltzmann-machines/). Generative Adversarial networks are very fashionable these days (check out [This Person does not exists!](https://thispersondoesnotexist.com/)). An introduction in pytorch is avalable [here](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
 
 ### Lab classes:
 
@@ -91,11 +92,11 @@ Principal Component Analysis is (still) one of the most fundamental tool of mach
 
 * Week 11(1/12): Pytorch and NN (iii/iii) [EXO11](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP11/FoIL_TP11.ipynb)
 
-* Week 12(8/12): PCA [EXO12](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP12/FoIL_TP12.ipynb)
+* Week 12(8/12): PCA [EXO12](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP12/FoIL_TP12.ipynb);[Solution](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP12/FoIL_TP12_solved.ipynb)
 
-* Week 13(15/12): Auto-encoder and k-means
+* Week 13(15/12): Auto-encoder and k-means [EXO13](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/TP13/FoIL_TP13.ipynb)
 
-* Week 14(22/12): ...
+* Week 14(22/12): Last day !
 
 ### Homeworks: 
 
