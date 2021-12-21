@@ -61,10 +61,21 @@ There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan
  
 Principal Component Analysis is (still) one of the most fundamental tool of machine learning. This [post](https://setosa.io/ev/principal-component-analysis/) has great visual example, that you can play with to get an intuition.
 
-* **7/12 (x) Generative model and clustering** [video part-a](https://tube.switch.ch/videos/dLBE5iTslK)
+* **7/12 and 14/12 (x) Generative model and clustering** [video part-a](https://tube.switch.ch/videos/dLBE5iTslK)
 
 Scikit learn has a good implemenation of k-means. Generative models are fundamental part of machine learning. The connection between Mixture of Gaussians and k-means clustering is well explained in [David MacKay's book](http://www.inference.org.uk/itprnn/book.pdf) page 300. The book is a very useful reference on this topic and probability in general (for instance Monte-Carlo 
- methods adiscussed page 357). Boltzmann machines are discussed in in many places, for instances [here](https://www.cs.toronto.edu/~hinton/csc2535/notes/lec4new.pdf) and [there](https://analyticsindiamag.com/beginners-guide-to-boltzmann-machines/). Generative Adversarial networks are very fashionable these days (check out [This Person does not exists!](https://thispersondoesnotexist.com/)). An introduction in pytorch is avalable [here](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
+ methods adiscussed page 357). Boltzmann machines are discussed in in many places, for instances [here](https://www.cs.toronto.edu/~hinton/csc2535/notes/lec4new.pdf) and [there](https://analyticsindiamag.com/beginners-guide-to-boltzmann-machines/). Generative Adversarial networks are very fashionable these days (check out [This Person does not exists!](https://thispersondoesnotexist.com/)). An introduction in pytorch is available [here](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
+
+* **21/12 (xi) Everything else** [Slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/slideslast.pdf)
+
+Ensembling methods are reallyan efficeint appraoch to machine learning. [Here](https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf) is a good reference for Adaboost. The book  <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> has a great chapter on bagging and boosting.
+
+RNN are still very useful (even though these days transformers are to be taking the lead!). We used extensivly the following [introduction](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). A simple RNN implementaion for learning to add number in keras is given [here](https://github.com/sphinxteam/mlcourse_2019/blob/master/lec7/Adding%20numbers%20using%20LSTMs.ipynb).
+
+Reiniforcement learning us certianly one of the most interesting direction these days. You can find a simple implementaion of q-learning herefor [Frozen lake](https://github.com/sphinxteam/mlcourse_2019/blob/master/lec8/PlayFrozenLame.ipynb) and of policy gradient for [cartpole](https://github.com/sphinxteam/mlcourse_2019/blob/master/lec8/Python%20CartPole%20PolicyLearning.ipynb). The [nature paper on alpha go](https://www.nature.com/articles/nature16961) is a fasicnating read on the new era of reinforcemecent learning.
+
+
+
 
 ### Lab classes:
 
