@@ -57,16 +57,18 @@ Over the last decades, neural networks have made quite an impact, one might even
 
 There are many ressource on the topic [online](https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/lecture-notes/MIT15_097S12_lec14.pdf), and many [books](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) on this topic, which would deserve a course in its own. Nevertheless, it is good to have a basic understanding of where we stand theoretically and to have grasp of the notion of [VC dimension](https://en.wikipedia.org/wiki/Vapnik%E2%80%93Chervonenkis_dimension).
 
-* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R)[video partb-b](https://tube.switch.ch/videos/shiC5JSABf);[video part-c](https://tube.switch.ch/videos/dLBE5iTslK); [slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/PCA.pdf)
+* **30/11 (ix) Unsuperversised learning and dimensionality reduction** [video part-a](https://tube.switch.ch/videos/crPaz78a9R)[video partb-b](https://tube.switch.ch/videos/shiC5JSABf);[video part-c](https://tube.switch.ch/videos/dLBE5iTslK); [slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/PCA.pdf), [lecture notes](https://www.overleaf.com/9912266674gwxdkbjjrtwp) 
+
  
 Principal Component Analysis is (still) one of the most fundamental tool of machine learning. This [post](https://setosa.io/ev/principal-component-analysis/) has great visual example, that you can play with to get an intuition.
 
-* **7/12 and 14/12 (x) Generative model and clustering** [video part-a](https://tube.switch.ch/videos/dLBE5iTslK)
+* **7/12 and 14/12 (x) Generative model and clustering** [video part-a](https://tube.switch.ch/videos/dLBE5iTslK), [lecture notes](https://www.overleaf.com/8549142194hhrnsmxgmgpd) 
+
 
 Scikit learn has a good implemenation of k-means. Generative models are fundamental part of machine learning. The connection between Mixture of Gaussians and k-means clustering is well explained in [David MacKay's book](http://www.inference.org.uk/itprnn/book.pdf) page 300. The book is a very useful reference on this topic and probability in general (for instance Monte-Carlo 
  methods adiscussed page 357). Boltzmann machines are discussed in in many places, for instances [here](https://www.cs.toronto.edu/~hinton/csc2535/notes/lec4new.pdf) and [there](https://analyticsindiamag.com/beginners-guide-to-boltzmann-machines/). Generative Adversarial networks are very fashionable these days (check out [This Person does not exists!](https://thispersondoesnotexist.com/)). An introduction in pytorch is available [here](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html).
 
-* **21/12 (xi) Everything else** [Slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/slideslast.pdf)
+* **21/12 (xi) Everything else** [Slides](https://github.com/IdePHICS/FundamentalLearningEPFL2021/blob/main/WrittenNotes/slideslast.pdf).[video part-a](https://tube.switch.ch/videos/S8CNOruenT),[video part-b](https://tube.switch.ch/videos/vSZy8z46jS), [lecture notes](https://www.overleaf.com/1269455636xkzgsszkcpqb) 
 
 Ensembling methods are reallyan efficeint appraoch to machine learning. [Here](https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf) is a good reference for Adaboost. The book  <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> has a great chapter on bagging and boosting.
 
